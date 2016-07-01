@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"4GL",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Dimmed Color Scheme",
+		"EasyMotion",
+		"FindKeyConflicts",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"RSpec",
+		"RuboCop",
+		"RubyTest",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Theme - Spacegray",
+		"Themr",
+		"TrailingSpaces",
+		"Zen Tabs"
+	]
+}

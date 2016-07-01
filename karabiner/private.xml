@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<root>
+	<inputsourcedef>
+		<name>RUSSIAN_LAYOUT</name>
+	    <inputsourceid_prefix>com.apple.keylayout.Russian</inputsourceid_prefix>
+	 </inputsourcedef>
+
+	<item>
+		<name>Change Paragraph(§) to Yo(ё) (On Russian layout only)</name>
+		<identifier>private.change_square_to_yo</identifier>
+		<inputsource_only>RUSSIAN_LAYOUT</inputsource_only>
+		<autogen>__KeyToKey__ KeyCode::RUSSIAN_PARAGRAPH, KeyCode::BACKSLASH</autogen>
+	</item>
+</root>
